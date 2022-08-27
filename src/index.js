@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client";
 import CommentDetails from "./CommentDetails";
 import ApprovalCard from "./ApprovalCard";
 
+import "./style/App.css";
 import { faker } from "@faker-js/faker";
 
 const el = document.getElementById("root");
